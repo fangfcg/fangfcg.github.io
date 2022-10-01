@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chenguang Fang (方晨光). I am currently a 4th year PhD student in the [School of Software](https://www.thss.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/).  I received my B.E. in 2019 in the School of Software, Tsinghua University. 
+My name is Chenguang Fang (方晨光). I am currently a 4th year PhD student from [School of Software](https://www.thss.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/).  I received my bachelor's degree in 2019 from School of Software, Tsinghua University. 
 
 My research interests include time series storage, time series cleaning and time series data mining.
 
