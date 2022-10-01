@@ -18,7 +18,6 @@ News
 + **[2022.08]** one paper got accepted by SIGMOD2023.
 + **[2022.05]** one paper got accpeted by KDD2022.
 + **[2022.04]** one paper got accpeted by VLDB2022.
-+ **[2022.04]** one paper got accpeted by VLDB2022.
 + **[2021.02]** one paper got accpeted by ICDE2021.
 + **[2019.10]** one paper got accpeted by CIKM2019.
 
