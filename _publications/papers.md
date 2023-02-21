@@ -3,6 +3,7 @@ title: "[My DBLP Entry]"
 permalink: 'https://dblp.uni-trier.de/pid/251/9554.html'
 
 ---
++ **Chenguang Fang**, Yinan Mei, Shaoxu Song. Matrix Factorization with Landmarks for Spatial Data. **ICDE 2023 (Accepted)**. 
 + Yinan Mei, Shaoxu Song, **Chenguang Fang**, Ziheng Wei, Jingyun Fang, Jiang Long. Discovering Editing Rules by Deep Reinforcement Learning. **ICDE 2023 (Accepted)**. 
 + **Chenguang Fang**, Shaoxu Song, Haoquan Guan, Xiangdong Huang, Chen Wang, Jianmin Wang. Grouping Time Series for Efficient Columnar Storage. **SIGMOD 2023 (Accepted)**.
 + **Chenguang Fang**, Shaoxu Song, Yinan Mei, Ye Yuan, Jianmin Wang. On Aligning Tuples for Regression. **SIGKDD 2022**.
