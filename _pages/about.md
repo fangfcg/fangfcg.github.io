@@ -14,7 +14,7 @@ My research interests include time series storage, time series cleaning and time
 
 News
 ======
-+ **[2023.06]** one paper got accepted by VLDB2023 (DEMO TRACK).
++ **[2023.06]** one paper got accepted by VLDB2023 (Demo Track).
 + **[2023.02]** one paper got accepted by ICDE2023.
 + **[2022.08]** one paper got accepted by ICDE2023.
 + **[2022.08]** one paper got accepted by SIGMOD2023.
