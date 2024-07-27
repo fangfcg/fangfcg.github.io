@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chenguang Fang (方晨光). I am currently a 4th year PhD student from [School of Software](https://www.thss.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/).  I received my bachelor's degree in 2019 from School of Software, Tsinghua University. 
+My name is Chenguang Fang (方晨光). I am currently a member of the [Institute for Intelligent Computing](https://tongyi.aliyun.com/), Alibaba. I received my Ph.D from [School of Software](https://www.thss.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/). I received my bachelor's degree in 2019 from School of Software, Tsinghua University. 
 
-My research interests include time series storage, time series cleaning and time series data mining.
+My research interests include database system, data storage, time series cleaning and time series data mining.
 
 News
 ======
++ **[2024.06]** I graduated from Tsinghua University and joined Alibaba.
++ **[2024.06]** one paper got accepted by VLDB2024.
 + **[2023.06]** one paper got accepted by VLDB2023 (Demo Track).
 + **[2023.02]** one paper got accepted by ICDE2023.
 + **[2022.08]** one paper got accepted by ICDE2023.
