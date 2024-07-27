@@ -25,3 +25,12 @@ News
 + **[2021.02]** one paper got accpeted by ICDE2021.
 + **[2019.10]** one paper got accpeted by CIKM2019.
 
+Awards
+======
++ Outstanding PhD Graduate in Beijing (北京市优秀毕业生), 2024
++ Outstanding PhD Graduate at School of Software, Tsinghua University (清华大学软件学院优秀博士毕业生), 2024
++ Outstanding Research and Innovation Award at School of Software, Tsinghua University (清华大学软件学院科研科创年度人物), 2023
++ China Guanggu Scholarship, Tsinghua University, 2023
++ Huawei Scholarship, Tsinghua University, 2022
++ Kuaishou Scholarship, Tsinghua University, 2021
+
